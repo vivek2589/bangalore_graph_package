@@ -13,6 +13,8 @@ The package also exports interactive Folium maps, static heatmaps, and GNN-ready
 - Export interactive maps (Folium and Kepler.gl) and CSV edge lists
 - Adaptive multi-layer maps: time-of-day or weekday/weekend automatically
 
+## Traffic feature
+This heatmap of Bangalore highlights traffic density across the city. Darker red lines mark high-congestion routes, while lighter shades indicate smoother flow. It provides a clear view of pressure points where better traffic management and infrastructure planning are needed
 <img src="outputs/bangalore_heatmap.png" alt="Bangalore Heatmap" width="500"/>
 
 
