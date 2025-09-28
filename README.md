@@ -18,6 +18,11 @@ This heatmap of Bangalore highlights traffic density across the city. Darker red
 <img src="outputs/bangalore_heatmap.png" alt="Bangalore Heatmap" width="500"/>
 
 
+## Notorious Sarjapura Signal
+
+Sarjapura Signal stands out as one of Bangalore’s busiest choke points. Traffic volume here touches 40,190 vehicles, with speeds averaging only 36 km/h. Congestion levels soar to nearly 94%, leaving little breathing room for the intersection to cope during peak hours. This hotspot doesn’t just slow local commuters; it creates ripple effects across surrounding corridors. The data makes it clear—without smarter traffic management and infrastructure upgrades, Sarjapura Signal will remain a major bottleneck in the city’s road network.
+<img src="outputs/Sarjapura_Signal.png" alt="Sarjapura Signal" width="500"/>
+
 ## Quick start
 ```bash
 git clone https://github.com/vivek2589/bangalore_graph_package.git
