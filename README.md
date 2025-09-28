@@ -13,7 +13,7 @@ The package also exports interactive Folium maps, static heatmaps, and GNN-ready
 - Export interactive maps (Folium and Kepler.gl) and CSV edge lists
 - Adaptive multi-layer maps: time-of-day or weekday/weekend automatically
 
-![Bangalore Heatmap](outputs/bangalore_heatmap.png)
+<img src="outputs/bangalore_heatmap.png" alt="Bangalore Heatmap" width="500"/>
 
 
 ## Quick start
