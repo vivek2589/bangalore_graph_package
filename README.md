@@ -13,6 +13,9 @@ The package also exports interactive Folium maps, static heatmaps, and GNN-ready
 - Export interactive maps (Folium and Kepler.gl) and CSV edge lists
 - Adaptive multi-layer maps: time-of-day or weekday/weekend automatically
 
+<img src="outputs/bangalore_heatmap.png" alt="Bangalore Heatmap" width="500"/>
+
+
 ## Quick start
 ```bash
 git clone https://github.com/vivek2589/bangalore_graph_package.git
